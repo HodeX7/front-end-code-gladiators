@@ -11,12 +11,12 @@ const App = () => (
       <Navbar />
       <Header />
     </div>
-    <Brand />
-    <WhatGPT3 />
+    {/* <Brand /> */}
+    {/* <WhatGPT3 /> */}
     <Features />
-    <Possibility />
-    <CTA />
-    {/* <Blog /> */}
+    {/* <Possibility /> */}
+    {/* <CTA /> */}
+    <Blog />
     <Footer />
   </div>
 );
